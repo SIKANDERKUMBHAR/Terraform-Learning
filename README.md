@@ -1,5 +1,3 @@
-Sure, here's a `README.md` file that covers the basics of Terraform commands:
-
 ```markdown
 # Terraform Basics Commands
 
