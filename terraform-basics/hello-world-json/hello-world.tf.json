@@ -1,0 +1,11 @@
+{
+
+	"output" : {
+	
+		"hello1": {
+		
+			"value":"Hello From Terraform"
+		}
+	}
+
+}
