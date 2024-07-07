@@ -1,4 +1,4 @@
-# Explanation of `terraform plan --var "name=sikander"`
+# Explanation of This Command `terraform plan --var "name=sikander"`
 
 The command `terraform plan --var "name=sikander"` is used to create an execution plan for your Terraform configuration while providing a value for a variable from the command line.
 
@@ -87,7 +87,7 @@ output "printname" {
 ## Expected Output
 
 After running `terraform apply` and providing a value for `var.name`, Terraform will output the value of the `name` variable as specified in the `printname` output.
-```
+
 
 
 
