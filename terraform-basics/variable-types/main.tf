@@ -5,3 +5,5 @@ output printage {
 output printName {
   value = "Your Name Is ${var.username}"
 }
+
+# this is main code for .tf
