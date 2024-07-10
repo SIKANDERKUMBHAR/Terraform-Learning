@@ -14,7 +14,7 @@ Terraform vs. Ansible
 2. Language and Syntax
 - Terraform:
   - Uses HCL (HashiCorp Configuration Language), which is declarative.
-  - You define the desired state of your infrastructure, and Terraform figures out the steps to achieve it.
+  - You define the desired state of your infrastructure, and TerraforKOm figures out the steps to achieve it.
 
 - Ansible:
   - Uses YAML for writing playbooks, which is more procedural.
