@@ -1,7 +1,9 @@
 ```markdown
 # Terraform Basics Commands
 
+
 Welcome to the **Terraform Basics Commands** guide! This document provides an overview of fundamental Terraform commands that will help you get started with Terraform for infrastructure as code.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
